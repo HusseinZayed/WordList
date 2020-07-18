@@ -22,10 +22,12 @@ Material Design
 
 3- delete word
 
-4- delete all words
+4- delete all words (with swipe)
 
-5- display all words
+5- display all words 
 
-<img src="https://drive.google.com/file/d/1cGw4O47w_lXt7yHaxWyvyqCImH3sWa8_/view?usp=sharing" width=250>
+<img src="https://i.ibb.co/gwhC6BC/Screenshot.png" width=400>  \t                         <img src="https://i.ibb.co/RbM3FrB/Screenshot.png" width=400>    
+<img src="https://i.ibb.co/2tydKnt/Screenshot.png" width=400>  \t                         <img src="https://i.ibb.co/h8Cmc9n/Screenshot.png" width=400>
+<img src="https://i.ibb.co/6m1qYT3/Screenshot.png" width=400>  \t                         <img src="https://i.ibb.co/0yDVVcM/Screenshot.png" width=400>
 
 
